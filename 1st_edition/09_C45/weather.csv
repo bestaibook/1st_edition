@@ -1,0 +1,11 @@
+ID,TEMPERATURE,HUMIDITY,DAY,DECISION
+1,Nippy,High,MAY01,Yes
+2,Nippy,Medium,MAY02,Yes
+3,Nippy,Medium,MAY03,Yes
+4,Nippy,Low,MAY04,Yes
+5,Crisp,Low,MAY05,Yes
+6,Crisp,Medium,MAY06,No
+7,Crisp,High,MAY07,No
+8,Crisp,High,MAY08,No
+9,Blazing,Low,MAY09,No
+10,Blazing,Low,MAY10,No

@@ -1,0 +1,11 @@
+TEMPERATURE,HUMIDITY,DECISION
+Nippy,High,Yes
+Nippy,Medium,Yes
+Nippy,Medium,Yes
+Nippy,Low,Yes
+Crisp,Low,Yes
+Crisp,Medium,No
+Crisp,High,No
+Crisp,High,No
+Blazing,Low,No
+Blazing,Low,No

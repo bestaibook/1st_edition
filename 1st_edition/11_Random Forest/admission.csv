@@ -1,0 +1,11 @@
+GENDER,MARITAL,FAVORITE,HOMETOWN,ADMIT
+female,married,classical,Paris,Accept
+female,married,classical,Shanghai,Accept
+male,married,pop,Shanghai,Accept
+male,single,pop,Paris,Accept
+male,married,pop,Taipei,Accept
+male,married,classical,Shanghai,Accept
+female,married,lyric,Taipei,Reject
+female,single,lyric,Taipei,Reject
+male,single,lyric,Shanghai,Reject
+female,married,classical,Taipei,Reject
